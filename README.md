@@ -1,10 +1,10 @@
 # ¡Hola, soy Agustín Bergomi! 👋
 
-Soy un desarrollador apasionado por la automatización y el desarrollo web, con experiencia en herramientas modernas como **Appium**, **WebdriverIO**, y **TypeScript**. Me gusta crear soluciones eficientes y aprender nuevas tecnologías. Actualmente, estoy trabajando en proyectos universitarios y colaborando en equipo en Globant como TAE.
+Soy un desarrollador apasionado por la automatización, el desarrollo web y mobile, con experiencia en herramientas modernas como **Appium**, **WebdriverIO**, y **TypeScript**. Me gusta crear soluciones eficientes y aprender nuevas tecnologías. Actualmente, estoy trabajando en proyectos universitarios y colaborando en equipo en Globant como TAE.
 
 ## 🚀 Habilidades clave
 - **Automatización móvil**: Appium, WebdriverIO, TypeScript
-- - **Automatización web**: Selenium, Cypress
+- **Automatización web**: Selenium, Cypress
 - **Desarrollo web**: HTML, CSS, JavaScript, Tailwind CSS, Bootstrap
 - **Control de versiones**: Git y GitHub
 - **Otros**: Docker, Jenkins, trabajo en equipo y debugging de APIs
