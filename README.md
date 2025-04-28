@@ -1,16 +1,24 @@
-## Hi there 👋
+# ¡Hola, soy Agustín Bergomi! 👋
 
-<!--
-**agustin-bergomi/agustin-bergomi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy un desarrollador apasionado por la automatización y el desarrollo web, con experiencia en herramientas modernas como **Appium**, **WebdriverIO**, y **TypeScript**. Me gusta crear soluciones eficientes y aprender nuevas tecnologías. Actualmente, estoy trabajando en proyectos universitarios y colaborando en equipo en Globant como TAE.
 
-Here are some ideas to get you started:
+## 🚀 Habilidades clave
+- **Automatización móvil**: Appium, WebdriverIO, TypeScript
+- - **Automatización web**: Selenium, Cypress
+- **Desarrollo web**: HTML, CSS, JavaScript, Tailwind CSS, Bootstrap
+- **Control de versiones**: Git y GitHub
+- **Otros**: Docker, Jenkins, trabajo en equipo y debugging de APIs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌟 Proyectos destacados
+- **Automatización con Appium**: Desarrollé pruebas de humo para apps Android usando WebdriverIO y TypeScript, aplicando Page Object Model para un código modular y reutilizable.  
+- **Proyectos freelance**: Proyectos de obtencion y presentacion de informacion en formato de dashboards y mediante uso de notificaciones via email, proyecto de envio y guardado de abalytics para apps Android, entre otors. 
+
+## 📫 Conéctate conmigo
+- [LinkedIn](https://www.linkedin.com/in/49751892474/)  
+- [Email](mailto:agustin.bergomi@gmail.com)
+
+## ⚡ Info Adicional:
+- Estudio Licenciatura en Gestion de Tecnologia Informatica en UADE.
+
+---
+<p align="center">Hecho con ❤️ para compartir mi trabajo.</p>
