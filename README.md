@@ -27,9 +27,7 @@ Soy un desarrollador apasionado por la automatización, el desarrollo web y mobi
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
 
 ## Mis estadísticas
-# Hi, I'm [Your Username]! 👋
-
-Mobile Test Automation Engineer | Android Enthusiast | Delivering High-Quality Mobile Solutions
+Mobile Test Automation Engineer | Android Enthusiast | Delivering High-Quality Automated Tests
 
 ## 🛠️ Technologies & Tools
 
