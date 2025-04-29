@@ -40,7 +40,7 @@ Mobile Test Automation Engineer | Android Enthusiast | Delivering High-Quality A
 ## 📊 My Stats
 
 ![Debugging Hours](https://img.shields.io/badge/Debugging%20Hours-+8000-2ecc71?style=flat-square) <br>
-![PRs Created](https://img.shields.io/badge/PRs%20Created-+100-3498db?style=flat-square) <br>
+![PRs Created (at Globant](https://img.shields.io/badge/PRs%20Created-+100-3498db?style=flat-square) <br>
 ![Bugs Fixed](https://img.shields.io/badge/Bugs%20Fixed-+100-e74c3c?style=flat-square) <br>
 ![Tickets Closed](https://img.shields.io/badge/Tickets%20Closed-+100-9b59b6?style=flat-square) <br>
 ![Test Cases Written](https://img.shields.io/badge/Test%20Cases%20Written-+500-f1c40f?style=flat-square)<br>
