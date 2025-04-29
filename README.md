@@ -20,12 +20,6 @@ Soy un desarrollador apasionado por la automatización, el desarrollo web y mobi
 ## ⚡ Info Adicional:
 - Estudio Licenciatura en Gestion de Tecnologia Informatica en UADE.
 
-## Sobre mí
-¡Hola! Soy desarrollador web y amo crear proyectos con estas tecnologías:
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
-
 ## Mis estadísticas
 Mobile Test Automation Engineer | Android Enthusiast | Delivering High-Quality Automated Tests
 
@@ -39,6 +33,9 @@ Mobile Test Automation Engineer | Android Enthusiast | Delivering High-Quality A
 ![Appium](https://img.shields.io/badge/-Appium-6F2B90?style=flat-square&logo=appium&logoColor=white)<br>
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)<br>
 ![Cypress](https://img.shields.io/badge/-Cypress-17202C?style=flat-square&logo=cypress&logoColor=white)<br>
+[![Docker](https://badgen.net/badge/icon/docker?icon=docker&label)](https://https://docker.com/)<br>
+[![Maven](https://badgen.net/badge/icon/maven?icon=maven&label)](https://https://maven.apache.org/)
+
 
 ## 📊 My Stats
 
@@ -50,6 +47,7 @@ Mobile Test Automation Engineer | Android Enthusiast | Delivering High-Quality A
 ![CI/CD Pipelines Built](https://img.shields.io/badge/CI%2FCD%20Pipelines%20Built-+50-1abc9c?style=flat-square)<br>
 ![Code Reviews Performed](https://img.shields.io/badge/Code%20Reviews%20Performed-+200-e67e22?style=flat-square)<br>
 ![Automation Coverage](https://img.shields.io/badge/Automation%20Coverage-+85%25-27ae60?style=flat-square)<br>
+
 
 ## 🌟 About Me
 
