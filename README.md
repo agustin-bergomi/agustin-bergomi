@@ -53,7 +53,8 @@
 ### 📊 Estadísticas GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=agustin-bergomi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%" />
+<image-card alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=agustin-bergomi&show_icons=true&theme=radical&hide_border=true&include_all_commits=true](https://tu-proyecto.vercel.app/api?username=agustin-bergomi&include_all_commits=true&count_private=true" ></image-card>
+  
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=agustin-bergomi&theme=radical&hide_border=true" alt="Streak Stats" width="48%" />
 </div>
 
