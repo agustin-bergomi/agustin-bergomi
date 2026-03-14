@@ -13,7 +13,7 @@
     <a href="https://online-portfolio-agustin.netlify.app/">
       <img src="https://img.shields.io/badge/Ver_mis_proyectos-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Proyectos" />
     </a>
-    <a href="https://linkedin.com/in/agustinbergomi">
+    <a href="https://www.linkedin.com/in/agustinbergomi/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
     <a href="mailto:agustin.bergomi@gmail.com">
