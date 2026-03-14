@@ -10,7 +10,7 @@
   </p>
 
   <p>
-    <a href="https://github.com/agustin-bergomi?tab=repositories">
+    <a href="https://online-portfolio-agustin.netlify.app/">
       <img src="https://img.shields.io/badge/Ver_mis_proyectos-2ea44f?style=for-the-badge&logo=github&logoColor=white" alt="Proyectos" />
     </a>
     <a href="https://linkedin.com/in/agustinbergomi">
