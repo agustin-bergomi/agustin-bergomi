@@ -39,10 +39,10 @@
 
 ### 💼 Experiencia destacada
 
-- **Freelance Full Stack** (2023 – actualidad)  
+- **Freelance Full Stack** (Jun 2025 – actualidad)  
   Desarrollo end-to-end de soluciones web según requisitos del cliente. Mantenimiento y refactorización de aplicaciones existentes. Aplicación de buenas prácticas aprendidas en proyectos de alta exigencia (banca y multinacionales).
 
-- **Desarrollador Android** - Globant (2021 – 2024)  
+- **Desarrollador Android** - Globant (Feb 2021 – Jun 2025)  
   Mantenimiento y evolución de aplicaciones con millones de usuarios. Resolución de incidencias críticas, implementación de features y trabajo en equipos ágiles.
 
 - **Full Stack Developer** (2016 – 2021)  
