@@ -2,7 +2,7 @@
   <h1>¡Hola! Soy Agustín Bergomi 👋</h1>
   
   <p>
-    <strong>Desarrollador de software full stack</strong> con más de 10 años de experiencia en desarrollo web y móvil.
+    <strong>Desarrollador de software full stack</strong> con más de +6 años de experiencia en desarrollo web y +4 en mobile.
   </p>
   
   <p>
