@@ -1,13 +1,18 @@
 <div align="center">
   <h1>¡Hola! Soy Agustín Bergomi 👋</h1>
-  
-  <p>
-    <strong>Desarrollador de software full stack</strong> con más de +6 años de experiencia en desarrollo web y +4 en mobile.
+    <p>
+    <b>QA & Process Improvement Consultant
+</b>
   </p>
   
   <p>
-    Construyo y mantengo productos digitales confiables, desde la idea inicial hasta producción, priorizando código mantenible, buena experiencia de usuario y rendimiento adecuado a cada proyecto.
+    Profesional de Quality Assurance y Process Improvement enfocado en impulsar procesos más eficientes y productos de mayor calidad. Interesado en la estandarización de prácticas, la colaboración entre equipos y la implementación de mejoras que reduzcan riesgos y favorezcan entregas predecibles y sostenibles.
+
+Software Quality • Process Optimization • Technology Consulting
+
   </p>
+  
+
 
   <p>
     <a href="https://online-portfolio-agustin.netlify.app/">
@@ -39,14 +44,19 @@
 
 ### 💼 Experiencia destacada
 
-- **Freelance Full Stack** (Jun 2025 – actualidad)  
-  Desarrollo end-to-end de soluciones web según requisitos del cliente. Mantenimiento y refactorización de aplicaciones existentes. Aplicación de buenas prácticas aprendidas en proyectos de alta exigencia (banca y multinacionales).
+### QA & Process Improvement Consultant
+#### Freelance • 2025 – Actualidad
+- Análisis y optimización de procesos de Quality Assurance para mejorar la calidad de las entregas y reducir riesgos durante el ciclo de desarrollo.
+- Diseño y revisión de estrategias de validación funcional, colaborando con desarrolladores, analistas funcionales y clientes.
+- Propuesta e implementación de mejoras en documentación, trazabilidad de pruebas y procesos de trabajo, promoviendo la mejora continua.
+- Desarrollo de aplicaciones web full stack utilizando React, Node.js, Express y MongoDB, desde la definición de requerimientos hasta el despliegue.
+- Mantenimiento, evolución y optimización de aplicaciones existentes, aplicando buenas prácticas de ingeniería, código mantenible y enfoque en rendimiento y experiencia de usuario.
 
-- **Desarrollador Android** - Globant (Feb 2021 – Jun 2025)  
-  Mantenimiento y evolución de aplicaciones con millones de usuarios. Resolución de incidencias críticas, implementación de features y trabajo en equipos ágiles.
-
-- **Full Stack Developer** (2016 – 2021)  
-  Diseño y desarrollo de plataformas de extracción y visualización de datos a medida. Integraciones API, consultoría técnica y foco en usabilidad.
+#### Skills:
+- Quality Assurance (QA)
+- Process Improvement
+- Risk Analysis
+- Root Cause Analysis
 
 <br />
 
@@ -58,8 +68,8 @@
 
 ### 🌱 Actualmente...
 
+- Liderando area de QA en una empresa
+- Mejorando procesos de QA
 - Trabajando en proyectos freelance full stack (React + Node principalmente)
-- Mejorando aplicaciones existentes y refactorizando
-- Siguiendo de cerca avances en herramientas de AI
 
 <br />
